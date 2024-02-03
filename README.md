@@ -1,6 +1,6 @@
 # Medknow database access system
 
-Medknow is a electronic health record database access script. It is very simple. An improved version of this was used in ONITO (https://alinoorul.github.io/onito.html).
+Medknow is a Python wrapper for SQL used in the context of a medical application. It is an electronic health record database access script. Too simple to be industry-worthy; it was just a college project. A much improved version was planned for the backend record system in ONITO (https://alinoorul.github.io/onito.html), a medical data app I was building in India.
 
 # Bots 4 U Consultancy
 
